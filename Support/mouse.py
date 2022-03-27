@@ -1,5 +1,6 @@
 #Import tkinter library
 from tkinter import *
+from PIL import Image, ImageTk
 #Create an instance of tkinter frame or window
 window= Tk()
 #Setting Fullscreen
