@@ -5,7 +5,7 @@ from tkinter import *
 root = Tk()
   
 # Adjust size 
-root.geometry("400x400")
+root.geometry("1600x1600")
   
 # Add image file
 bg = PhotoImage(file = "4 color.png")
